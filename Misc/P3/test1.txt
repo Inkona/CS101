@@ -1,0 +1,6 @@
+add Carter J 68 170
+add Maddox G 70 180
+printByWeight
+remove Carter J
+printByWeight
+quit
